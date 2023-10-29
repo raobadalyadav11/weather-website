@@ -2,7 +2,7 @@
 
 A simple and user-friendly web-based weather application that provides real-time weather information for various locations around the world.
 
-![Weather Website Screenshot](screenshot.png)
+![Weather Website Screenshot](./image/weather-website.png)
 
 ## Features
 
