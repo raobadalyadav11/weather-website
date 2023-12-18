@@ -13,7 +13,7 @@ A simple and user-friendly web-based weather application that provides real-time
 
 ## Demo
 
-See the live demo: [Weather Website Demo](https://raobadalyadav11)
+See the live demo: [Weather Website Demo](https://raobadalyadav11.github.io/weather-website/)
 
 ## Getting Started
 
